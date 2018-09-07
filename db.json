@@ -3,7 +3,6 @@
     "id": 1,
     "name": "Ramu Gujjarlapudi",
     "phone": "8919199047",
-    "email": "jd@example.com",
     "dateOfBirth": "1990",
     "Interests": [
       {
@@ -20,7 +19,6 @@
     "id": 2,
     "name": "Nishanth Budama",
     "phone": "9985426848",
-    "email": "jd@example.com",
     "dateOfBirth": "1992",
     "Interests": [
       {
@@ -37,7 +35,6 @@
     "id": 3,
     "name": "Harsh Dand",
     "phone": "9291242780",
-    "email": "jd@example.com",
     "dateOfBirth": "1992",
     "Interests": [
       {
@@ -54,7 +51,6 @@
     "id": 4,
     "name": "Prashanth Malladi",
     "phone": "8919199047",
-    "email": "jd@example.com",
     "dateOfBirth": "1992",
     "Interests": [
       {
@@ -71,7 +67,6 @@
     "id": 5,
     "name": "Rohith Moramshetti",
     "phone": "9581521532",
-    "email": "jd@example.com",
     "dateOfBirth": "1992",
     "Interests": [
       {
@@ -88,7 +83,6 @@
     "id": 6,
     "name": "Praveen Yalamarthy",
     "phone": "8885737573",
-    "email": "jd@example.com",
     "dateOfBirth": "1992",
     "Interests": [
       {
@@ -105,7 +99,6 @@
     "id": 7,
     "name": "Ravi Gorle",
     "phone": "9849395636",
-    "email": "jd@example.com",
     "dateOfBirth": "1991",
     "Interests": [
       {
@@ -122,7 +115,6 @@
     "id": 8,
     "name": "Raj Kumar",
     "phone": "9618067735",
-    "email": "jd@example.com",
     "dateOfBirth": "1991",
     "Interests": [
       {
@@ -139,7 +131,6 @@
     "id": 9,
     "name": "Kiran Rachamalla",
     "phone": "9951343584",
-    "email": "jd@example.com",
     "dateOfBirth": "1990",
     "Interests": [
       {
